@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Production-quality offline-first native Android Expense Tracker with local Room database, budgeting, recurring transactions, and SAF backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
